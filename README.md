@@ -1,6 +1,5 @@
-# Project Name
-
-A brief description of your project.
+# Notes App
+An App where you can create your own notes and perfrom CRUD operations on it. There are functionalites like archive notes, bulk delete and search notes.
 
 ---
 
