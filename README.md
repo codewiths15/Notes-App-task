@@ -31,7 +31,7 @@ npm run dev
 5. **Open new terminal in parent folder**
 ```bash
 cd frontend
-cd bash
+cd app
 ```
 
 6. **Install dependencies**
