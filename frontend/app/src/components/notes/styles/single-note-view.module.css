@@ -1,0 +1,41 @@
+.container {
+  padding: 20px; /* Space inside the card */
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 700px;      /* Maximum width */
+  min-width: 400px;      /* Minimum width to prevent shrinking */
+  width: 100%;           /* Responsive width */
+  margin: 20px auto;
+  box-sizing: border-box; /* Include padding in width */
+  text-align: left;      /* Ensure content aligns left */
+}
+
+.backBtn {
+  background-color: #bababa;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-bottom: 20px;
+  transition: background-color 0.2s;
+}
+
+.backBtn:hover {
+  background-color: #d4d4d4;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: #333;
+}
+
+.content {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #555;
+  white-space: pre-wrap; /* Preserve line breaks */
+}
