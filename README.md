@@ -1,5 +1,5 @@
 # Notes App
-An App where you can create your own notes and perfrom CRUD operations on it. There are functionalites like archive notes, bulk delete and search notes.
+An App where you can create your own notes and perfrom CRUD operations on it. There are functionalities like archive notes, bulk delete and search notes.
 
 ---
 
