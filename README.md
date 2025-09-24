@@ -29,15 +29,15 @@ npm run dev
 ```
 
 5. **Open new terminal in parent folder**
-   ```bash
-   cd frontend
-   cd bash
-   ```
+```bash
+cd frontend
+cd bash
+```
 
 6. **Install dependencies**
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 7. **Start the frontend server**
 ```bash
